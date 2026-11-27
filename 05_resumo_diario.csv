@@ -1,0 +1,15 @@
+﻿periodo,dia_semana,etapas,pax,etapas_nao_regulares,passageiros_nao_regulares,dia_nome
+fevereiro_2026,0,119,17060,2,0,segunda
+fevereiro_2026,1,173,23232,7,882,terca
+fevereiro_2026,2,181,25065,14,2064,quarta
+fevereiro_2026,3,177,25464,9,1167,quinta
+fevereiro_2026,4,187,26650,15,2127,sexta
+fevereiro_2026,5,188,26489,31,4034,sabado
+fevereiro_2026,6,142,20668,8,633,domingo
+outubro_2025,0,141,21509,3,254,segunda
+outubro_2025,1,143,21530,8,683,terca
+outubro_2025,2,136,21250,0,0,quarta
+outubro_2025,3,152,22570,1,52,quinta
+outubro_2025,4,154,22709,4,458,sexta
+outubro_2025,5,135,19722,4,425,sabado
+outubro_2025,6,132,20077,4,349,domingo

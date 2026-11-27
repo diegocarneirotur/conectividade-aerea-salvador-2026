@@ -1,0 +1,3 @@
+﻿periodo,semana,etapas_fisicas_total,etapas_chegada,etapas_partida,etapas_regulares,etapas_nao_regulares,passageiros_ssa,pax_chegadas,pax_partidas,passageiros_regulares,passageiros_nao_regulares,etapas_latam,passageiros_latam,aeroportos_com_passageiros,arestas_direcionadas_com_passageiros,etapas_sem_pax,movimentos_para_SSCE_sem_pax,concentracao_HHI_pax,numero_efetivo_shannon,cinco_corredores_pax,cinco_corredores_pct
+outubro_2025,20 a 26 de outubro de 2025,993,497,496,969,24,149367,74253,75114,147146,2221,268,44221,27,54,5,0,0.115536987310684,11.589969919076536,100402,67.21832801087255
+fevereiro_2026,12 a 18 de fevereiro de 2026,1167,585,582,1081,86,164628,82251,82377,153721,10907,298,49254,29,58,5,2,0.12035287279162354,11.371517079779311,113349,68.85159268168233

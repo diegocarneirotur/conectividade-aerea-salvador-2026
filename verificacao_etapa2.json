@@ -1,0 +1,57 @@
+{
+  "periodos": {
+    "outubro_2025": "20 a 26 de outubro de 2025",
+    "fevereiro_2026": "12 a 18 de fevereiro de 2026"
+  },
+  "etapas_fisicas": [
+    993,
+    1167
+  ],
+  "passageiros_ssa": [
+    149367,
+    164628
+  ],
+  "aeroportos_com_pax": [
+    27,
+    29
+  ],
+  "arestas_com_pax": [
+    54,
+    58
+  ],
+  "arestas_comuns": 54,
+  "arestas_novas": [
+    "('SBCY', 'SBSV')",
+    "('SBRJ', 'SBSV')",
+    "('SBSV', 'SBCY')",
+    "('SBSV', 'SBRJ')"
+  ],
+  "arestas_retiradas": [],
+  "jaccard_direcionadas_ativas": 0.9310344827586207,
+  "pax_cinco_corredores": [
+    100402,
+    113349
+  ],
+  "concentracao_cinco_pct": [
+    67.21832801087255,
+    68.85159268168233
+  ],
+  "concentracao_hhi": [
+    0.115536987310684,
+    0.12035287279162354
+  ],
+  "etapas_sem_pax": [
+    5,
+    5
+  ],
+  "SSCE_nao_contribui_a_rede_pax": true,
+  "latam_incluida": true,
+  "tap_excluida": true,
+  "avisos": [
+    "Unidade: movimentos fisicos reconstruidos com chave inferida em SSA; validar com etapas basicas oficiais.",
+    "Pesos de passageiros correspondem ao embarque ou desembarque em SSA, nao a ocupacao total no trecho.",
+    "A topologia focal gera valores triviais para intermediação/proximidade global; nao computar.",
+    "Testes estatisticos sao exploratorios, com 7 dias por periodo, sem identificacao causal.",
+    "Dados somente de operacoes associadas a SSA; nao ha outras arestas nacionais."
+  ]
+}

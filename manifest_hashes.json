@@ -1,0 +1,69 @@
+{
+  "original_input": {
+    "filename": "ssa.csv",
+    "size_bytes": 13092774,
+    "sha256": "dede0b5db5057fe6c05f6df7a8a64f60e63546e3018a28ebb177dd554f7e8198"
+  },
+  "outputs": [
+    {
+      "filename": "01_registros_od_higienizados.csv",
+      "size_bytes": 3302435,
+      "sha256": "656a2e1fe8b34835410716b4d636999eddc686ff7322461106ac66d73b39212c"
+    },
+    {
+      "filename": "02_etapas_fisicas_reconstruidas.csv",
+      "size_bytes": 710175,
+      "sha256": "f6cb13f4f003978311a8bf2ebeda18bdf44700bd8457d93c0fe1d8f245c6853f"
+    },
+    {
+      "filename": "03_rotas_diretas_agrupadas.csv",
+      "size_bytes": 6249,
+      "sha256": "49e56af7d0dbda9803612614dc28441fd86c8801512f06ca6d4ad66e8d3090bc"
+    },
+    {
+      "filename": "04_resumo_comparativo_e_sensibilidade.csv",
+      "size_bytes": 999,
+      "sha256": "964a045d742faddf19053dce0500a15dd8f581bf06c76e6ab4d8a9c665db50cb"
+    },
+    {
+      "filename": "05_auditoria_filtros.csv",
+      "size_bytes": 366,
+      "sha256": "aa74d57aa293367a9369a0441f180677007703b6a5c37caaa44b81843adaf29c"
+    },
+    {
+      "filename": "06_perfil_completude_dos_campos.csv",
+      "size_bytes": 1433,
+      "sha256": "892eb03ba4d7876f131382e7a468449886ee8b0e77453108e467496e9989d089"
+    },
+    {
+      "filename": "07_exemplo_trajeto_com_escala.csv",
+      "size_bytes": 921,
+      "sha256": "3d88a263326652fe46a30ebc795926475d41d1a526f3aa05121b0d6e122ee2a2"
+    },
+    {
+      "filename": "08_alertas_duplicados_com_pax.csv",
+      "size_bytes": 1767,
+      "sha256": "c7f873e3d54a31295adb514c640d85329952e26d04bacc683c55a963c5cbee2f"
+    },
+    {
+      "filename": "LEIA_ME_RELATORIO_TECNICO.md",
+      "size_bytes": 13623,
+      "sha256": "a6f1121ac5b7584dc7abf89b78813598f60c4c351c3fcfa768f0eeff97158939"
+    },
+    {
+      "filename": "execucao_log.txt",
+      "size_bytes": 5947,
+      "sha256": "5185cd41fdba443d90388d9425f90fd5752e902cc6da4e317ba85b54ef8d4b59"
+    },
+    {
+      "filename": "reproduzir_etapa1_ssa.py",
+      "size_bytes": 17363,
+      "sha256": "ce2f37b7b4db2f65eb1895d3c763b95875eb47738f8496a71e907d114adc15ba"
+    },
+    {
+      "filename": "verificacoes_automaticas.json",
+      "size_bytes": 1351,
+      "sha256": "b538f77f835dedd96d30918ec2fe5da7a16f0d19efb229ef158369ad4d2d4d88"
+    }
+  ]
+}

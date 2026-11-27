@@ -1,0 +1,22 @@
+{
+  "arquivo_original": "/mnt/data/ssa.csv",
+  "n_linhas_originais": 26101,
+  "n_colunas_originais": 55,
+  "total_registros_validos_semanas_reais": 5913,
+  "duplicados_exatos_removidos": 509,
+  "duplicados_exatos_positivos_preservados": 1,
+  "etapas_sem_registro_direto": 0,
+  "etapas_com_aeroportos_adjacentes_conflitantes": 0,
+  "etapas_com_naturezas_divergentes": 0,
+  "registros_sem_par_adjacente": 0,
+  "colunas_100pct_vazias": [
+    "nr_linha",
+    "dt_sistema"
+  ],
+  "soma_pax_od_igual_soma_etapas": true,
+  "soma_movimentos_reconciliada": 313995,
+  "aviso_unidade": "Uma etapa fisica reconstruida agrega varias linhas de passageiros origem/destino. Pax indicam embarques ou desembarques em SSA, nao pessoas unicas.",
+  "aviso_duplicados_positivos": "Duplicidades exatas com pax >0 permanecem no resultado por nao haver comprovacao se sao erro de extracao ou linhas de COTRAN/segmentos distintos. Ha sensibilidade de 1 passageiro na semana de outubro por data real.",
+  "aviso_chave": "Chave operacional reconstruida a partir da empresa, numero voo, data referencia, sentido, horario real SSA e sequencia de escala. Nao ha identificador unico nativo de aeronave/etapa no CSV.",
+  "aviso_fonte": "Confirmar a correspondencia dos campos de sequencia com dicionario de origem e validar, se necessario, com microdados de etapas basicas da ANAC."
+}

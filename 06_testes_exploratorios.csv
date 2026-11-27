@@ -1,0 +1,4 @@
+﻿indicador,descricao,diferenca_total,diferenca_media_diaria,dias_positivos,dias_negativos,p_exato_bicaudal_exploratorio,p_exato_unicaudal_positivo,n_pares,tipo_teste,p_bicaudal_ajustado_Holm
+etapas,Etapas fisicas (7 dias),174,24.857142857142858,6,1,0.046875,0.0234375,7,Permutacao exata de sinais com correspondencia por dia da semana,0.140625
+pax,Passageiros associados a SSA (7 dias),15261,2180.1428571428573,6,1,0.15625,0.078125,7,Permutacao exata de sinais com correspondencia por dia da semana,0.15625
+etapas_nao_regulares,Etapas nao regulares (7 dias),62,8.857142857142858,5,2,0.0625,0.03125,7,Permutacao exata de sinais com correspondencia por dia da semana,0.140625
